@@ -1,0 +1,2 @@
+# .github
+Lena AI
